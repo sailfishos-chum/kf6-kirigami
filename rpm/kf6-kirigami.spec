@@ -51,6 +51,7 @@ developing applications that use %{name}.
 %{_kf6_qmldir}/org/kde/kirigami
 %{_datadir}/qlogging-categories6/kirigami.categories
 %{_kf6_libdir}/libKirigami.so.*
+%{_kf6_libdir}/libKirigamiControls.so.*
 %{_kf6_libdir}/libKirigamiDelegates.so.*
 %{_kf6_libdir}/libKirigamiDialogs.so.*
 %{_kf6_libdir}/libKirigamiLayouts.so.*
@@ -72,6 +73,7 @@ developing applications that use %{name}.
 %{_kf6_libdir}/cmake/KF6Kirigami{,2}/
 %{_kf6_libdir}/cmake/KF6KirigamiPlatform/
 %{_kf6_libdir}/libKirigami.so
+%{_kf6_libdir}/libKirigamiControls.so
 %{_kf6_libdir}/libKirigamiDelegates.so
 %{_kf6_libdir}/libKirigamiDialogs.so
 %{_kf6_libdir}/libKirigamiLayouts.so
